@@ -5,7 +5,7 @@ const NavBar = () => {
     return (
         <div className='navbar-div'>
             <div className='logo'>
-                Logo
+                Logo!
             </div>
             <div>
                 <ul className='un-ordered-list'>
